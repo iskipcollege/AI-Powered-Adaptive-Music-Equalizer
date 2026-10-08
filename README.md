@@ -181,7 +181,6 @@ This project began as a personal idea:
 
 This prototype explores that vision — combining "audio signal processing", "machine learning", and "modern UI design".
 
-📌License
-This project is for research and demonstration purposes.
+
 
 
